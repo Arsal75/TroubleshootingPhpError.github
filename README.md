@@ -1,4 +1,4 @@
-# TroubleshootingPhpError.github
+# Trouble-shooting-Php-Error.github
 1. **Problem**: "Undefined index" notice
    - **Description**: This error occurs when trying to access an array key that doesn't exist.
    - **Solution**: Check if the array key exists using `isset()` or `array_key_exists()` before accessing it.
